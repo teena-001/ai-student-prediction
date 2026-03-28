@@ -74,8 +74,8 @@ pip install -r requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/rahulshkya/student-burnout-prediction.git](https://github.com/rahulshkya/student-burnout-prediction.git)
-cd student-burnout-prediction
+git clone [https://github.com/teena-001/ai-student-prediction.git](https://github.com/teena-001/ai-student-prediction.git)
+
 
 ```
 
@@ -116,7 +116,7 @@ Logistic Regression (Classification)
 
 **Teena Fartyal**
  Developer (as a team leader of this project)
-[LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/rahul-shakya) | [Portfolio](https://www.google.com/search?q=https://github.com/rahulshkya)
+[LinkedIn]([https://www.google.com/search?q=https://linkedin.com/in/rahul-shakya](https://www.linkedin.com/in/teena-fartyal-9759913a9?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ```
 
