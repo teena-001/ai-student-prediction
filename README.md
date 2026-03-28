@@ -116,7 +116,7 @@ Logistic Regression (Classification)
 
 **Teena Fartyal**
  Developer (as a team leader of this project)
-[LinkedIn]([https://www.google.com/search?q=https://linkedin.com/in/rahul-shakya](https://www.linkedin.com/in/teena-fartyal-9759913a9?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[LinkedIn](https://www.linkedin.com/in/teena-fartyal-9759913a9/)
 
 ```
 
