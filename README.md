@@ -114,8 +114,8 @@ Logistic Regression (Classification)
 
 ## 👤 Author
 
-**Rahul Saini**
-*Machine Learning Enthusiast | Full Stack Developer*
+**Teena Fartyal**
+ Developer (as a team leader of this project)
 [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/rahul-shakya) | [Portfolio](https://www.google.com/search?q=https://github.com/rahulshkya)
 
 ```
